@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I used chatgpt because I couldn't understand the aspects of the parsing code. I do understand how to use streamlit.
